@@ -85,8 +85,12 @@ def get_ratings():
         with open('ratings.csv', mode='r', encoding='utf-8') as csvfile:
             reader = csv.DictReader(csvfile)
             for i, row in enumerate(reader):
-                if i >= 100: break
-                rating = Rating(row['userId'], row['movieId'], row['rating'], row['timestamp'])
+                if i >= 100:
+                    break
+                rating = Rating(
+                    row['userId'], row['movieId'],
+                    row['rating'], row['timestamp']
+                )
                 ratings_list.append(rating)
     except FileNotFoundError:
         return {"error": "Plik ratings.csv nie został znaleziony."}
@@ -100,7 +104,10 @@ def get_tags():
         with open('tags.csv', mode='r', encoding='utf-8') as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
-                tag = Tag(row['userId'], row['movieId'], row['tag'], row['timestamp'])
+                tag = Tag(
+                    row['userId'], row['movieId'],
+                    row['tag'], row['timestamp']
+                )
                 tags_list.append(tag)
     except FileNotFoundError:
         return {"error": "Plik tags.csv nie został znaleziony."}
