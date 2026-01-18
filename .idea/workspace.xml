@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="020aa7c5-2bcd-429e-b427-1fb25f04a31c" name="Changes" comment="naprawa" />
+    <list default="true" id="020aa7c5-2bcd-429e-b427-1fb25f04a31c" name="Changes" comment="dodanie screenshota">
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/import_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/potwierdzenie.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="python_modularization" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,7 +69,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "python__api__sqlite",
+    "git-widget-placeholder": "person__detection",
     "last_opened_file_path": "C:/Users/Admin/bt-podstprogpyt",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
@@ -406,7 +413,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768767731844</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="dodanie screenshota">
+      <option name="closed" value="true" />
+      <created>1768773152196</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1768773152196</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -437,7 +452,8 @@
     <MESSAGE value="rozwiązanie zadań 1-4" />
     <MESSAGE value="poprawa PEP8" />
     <MESSAGE value="naprawa" />
-    <option name="LAST_COMMIT_MESSAGE" value="naprawa" />
+    <MESSAGE value="dodanie screenshota" />
+    <option name="LAST_COMMIT_MESSAGE" value="dodanie screenshota" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/bt_podstprogpyt$zad_2.coverage" NAME="zad_2 Coverage Results" MODIFIED="1768756267950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
