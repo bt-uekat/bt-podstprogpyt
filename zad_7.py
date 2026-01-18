@@ -1,3 +1,4 @@
+import argparse
 import requests
 class Brewery:
     def __init__(self, name: str, city: str, brewery_type: str):
@@ -6,7 +7,17 @@ class Brewery:
         self.brewery_type: str = brewery_type
     def __str__(self) -> str:
         return f"Browar: {self.name} Miasto: {self.city} Typ: {self.brewery_type}"
-url = "https://api.openbrewerydb.org/v1/breweries"
+parser = argparse.ArgumentParser()
+parser.add_argument("--city", help="Podaj miasto", type=str)
+args = parser.parse_args()
+base_url = ("https://api.openbrewerydb.org/v1/breweries")
+if args.city:
+    print("Szukam miasta" + args.city)
+    miasto = args.city.replace(" ", "_")
+    url = base_url + "?by_city=" + miasto
+else:
+    print("Nie podano miasta")
+    url = base_url
 response = requests.get(url)
 data = response.json()
 brewery_list = []
