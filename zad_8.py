@@ -1,0 +1,33 @@
+import argparse
+import requests
+class Brewery:
+    def __init__(self, name: str, city: str, brewery_type: str):
+        self.name: str = name
+        self.city: str = city
+        self.brewery_type: str = brewery_type
+    def __str__(self) -> str:
+        return f"Browar: {self.name} Miasto: {self.city} Typ: {self.brewery_type}"
+parser = argparse.ArgumentParser()
+parser.add_argument("--city", help="Podaj miasto", type=str)
+args = parser.parse_args()
+base_url = ("https://api.openbrewerydb.org/v1/breweries")
+if args.city:
+    print("Szukam w mieście: " + args.city)
+    miasto = args.city.replace(" ", "_")
+    url = base_url + "?by_city=" + miasto
+else:
+    print("Nie podano miasta")
+    url = base_url
+print("~" * 30)
+response = requests.get(url)
+data = response.json()
+brewery_list = []
+for item in data[:20]:
+    new_brewery = Brewery(
+        name=item.get("name", "Unknown"),
+        city=item.get("city", "Unknown"),
+        brewery_type=item.get("brewery_type", "Unknown"),
+    )
+    brewery_list.append(new_brewery)
+for brewery in brewery_list:
+    print(brewery)
