@@ -1,4 +1,5 @@
 from modules import Property, House, Flat
+
 dom_1 = House(
     100, 5, 1000000,
     "Uliczna 1", 200

@@ -3,8 +3,6 @@ from modules import Student, Library, Employee, Book, Order
 student_bartek = Student("Bartek Bartkowski", [81, 90, 69])
 student_beata = Student("Beata Beatowska", [60, 90, 40])
 
-
-
 library_warszawa = Library(
     "Warszawa", "Uliczna 1",
     "00-001", "8-20",
