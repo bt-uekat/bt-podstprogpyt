@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="020aa7c5-2bcd-429e-b427-1fb25f04a31c" name="Changes" comment="naprawa" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="python_modularization" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;bt-uekat&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://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@github.com/bt-uekat/bt-podstprogpyt.git&quot;,
+    &quot;accountId&quot;: &quot;61f1523a-2fbf-4cd5-a14a-b6b2e71be033&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="38OuNKTDUYDGg9Xm8RC2XuUZ910" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Order.executor": "Run",
+    "Python.Product.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.utils.executor": "Run",
+    "Python.zad_1.executor": "Run",
+    "Python.zad_2.executor": "Run",
+    "Python.zad_3.executor": "Run",
+    "Python.zad_4.executor": "Run",
+    "Python.zad_5.executor": "Run",
+    "Python.zad_6.executor": "Run",
+    "Python.zad_7.executor": "Run",
+    "Python.zad_8.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "python__api__sqlite",
+    "last_opened_file_path": "C:/Users/Admin/bt-podstprogpyt",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\bt-podstprogpyt" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\bt-podstprogpyt" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.308" />
+        <option value="bundled-python-sdk-ca5e2b39c7df-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.308" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="020aa7c5-2bcd-429e-b427-1fb25f04a31c" name="Changes" comment="" />
+      <created>1768682896516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768682896516</updated>
+      <workItem from="1768682897542" duration="8135000" />
+      <workItem from="1768691811503" duration="88000" />
+      <workItem from="1768696053867" duration="2744000" />
+      <workItem from="1768698836774" duration="358000" />
+      <workItem from="1768743930455" duration="534000" />
+      <workItem from="1768745977392" duration="10484000" />
+      <workItem from="1768761150136" duration="844000" />
+      <workItem from="1768762008410" duration="5276000" />
+      <workItem from="1768767326023" duration="515000" />
+    </task>
+    <task id="LOCAL-00001" summary="rozwiązanie zadania 2a">
+      <option name="closed" value="true" />
+      <created>1768684320333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768684320333</updated>
+    </task>
+    <task id="LOCAL-00002" summary="rozwiązanie zadania 2b">
+      <option name="closed" value="true" />
+      <created>1768684932951</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768684932951</updated>
+    </task>
+    <task id="LOCAL-00003" summary="rozwiązanie zadania 2c">
+      <option name="closed" value="true" />
+      <created>1768685437804</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768685437804</updated>
+    </task>
+    <task id="LOCAL-00004" summary="rozwiązanie zadania 2d">
+      <option name="closed" value="true" />
+      <created>1768686032837</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768686032837</updated>
+    </task>
+    <task id="LOCAL-00005" summary="rozwiązanie zadania 1">
+      <option name="closed" value="true" />
+      <created>1768687571231</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1768687571231</updated>
+    </task>
+    <task id="LOCAL-00006" summary="rozwiązanie zadania 2">
+      <option name="closed" value="true" />
+      <created>1768687852909</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1768687852909</updated>
+    </task>
+    <task id="LOCAL-00007" summary="rozwiązanie zadania 3">
+      <option name="closed" value="true" />
+      <created>1768688118062</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1768688118062</updated>
+    </task>
+    <task id="LOCAL-00008" summary="rozwiązanie zadania 4">
+      <option name="closed" value="true" />
+      <created>1768688411119</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1768688411119</updated>
+    </task>
+    <task id="LOCAL-00009" summary="rozwiązanie zadania 5">
+      <option name="closed" value="true" />
+      <created>1768688870841</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1768688870841</updated>
+    </task>
+    <task id="LOCAL-00010" summary="rozwiązanie zadania 6">
+      <option name="closed" value="true" />
+      <created>1768690216580</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1768690216580</updated>
+    </task>
+    <task id="LOCAL-00011" summary="rozwiązanie zadania 6">
+      <option name="closed" value="true" />
+      <created>1768690883170</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1768690883170</updated>
+    </task>
+    <task id="LOCAL-00012" summary="naprawa branchów">
+      <option name="closed" value="true" />
+      <created>1768690991647</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1768690991647</updated>
+    </task>
+    <task id="LOCAL-00013" summary="usunięcie zbędnego pliku">
+      <option name="closed" value="true" />
+      <created>1768691866360</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1768691866361</updated>
+    </task>
+    <task id="LOCAL-00014" summary="usunięcie zbędnego pliku">
+      <option name="closed" value="true" />
+      <created>1768691895398</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1768691895398</updated>
+    </task>
+    <task id="LOCAL-00015" summary="rozwiązanie zadania 7">
+      <option name="closed" value="true" />
+      <created>1768697583826</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1768697583826</updated>
+    </task>
+    <task id="LOCAL-00016" summary="rozwiązanie zadania 7">
+      <option name="closed" value="true" />
+      <created>1768697746072</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1768697746072</updated>
+    </task>
+    <task id="LOCAL-00017" summary="rozwiązanie zadania 8">
+      <option name="closed" value="true" />
+      <created>1768698706738</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1768698706738</updated>
+    </task>
+    <task id="LOCAL-00018" summary="rozwiązanie zadania 8">
+      <option name="closed" value="true" />
+      <created>1768698723042</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1768698723042</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Zamiana nazw plików">
+      <option name="closed" value="true" />
+      <created>1768699035798</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1768699035798</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Poprawa estetyki">
+      <option name="closed" value="true" />
+      <created>1768699183861</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1768699183861</updated>
+    </task>
+    <task id="LOCAL-00021" summary="rozwiązanie zadania 1">
+      <option name="closed" value="true" />
+      <created>1768747136609</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1768747136609</updated>
+    </task>
+    <task id="LOCAL-00022" summary="rozwiązanie zadania 2">
+      <option name="closed" value="true" />
+      <created>1768751799618</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1768751799618</updated>
+    </task>
+    <task id="LOCAL-00023" summary="rozwiązanie zadania 3">
+      <option name="closed" value="true" />
+      <created>1768753453269</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1768753453269</updated>
+    </task>
+    <task id="LOCAL-00024" summary="dodanie zadania 7">
+      <option name="closed" value="true" />
+      <created>1768753721366</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1768753721366</updated>
+    </task>
+    <task id="LOCAL-00025" summary="dodanie zadania 8">
+      <option name="closed" value="true" />
+      <created>1768753748060</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1768753748060</updated>
+    </task>
+    <task id="LOCAL-00026" summary="dostosowanie kodu do PEP8">
+      <option name="closed" value="true" />
+      <created>1768754972265</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1768754972265</updated>
+    </task>
+    <task id="LOCAL-00027" summary="dostosowanie kodu do PEP8">
+      <option name="closed" value="true" />
+      <created>1768755612295</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1768755612296</updated>
+    </task>
+    <task id="LOCAL-00028" summary="dostosowanie kodu do PEP8">
+      <option name="closed" value="true" />
+      <created>1768756506918</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1768756506918</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Dodanie konfiguracji CI">
+      <option name="closed" value="true" />
+      <created>1768761553171</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1768761553171</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Dodanie konfiguracji CI">
+      <option name="closed" value="true" />
+      <created>1768761613047</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1768761613047</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Dodanie konfiguracji CI">
+      <option name="closed" value="true" />
+      <created>1768761676410</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1768761676410</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Dodanie konfiguracji CI">
+      <option name="closed" value="true" />
+      <created>1768761699118</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1768761699118</updated>
+    </task>
+    <task id="LOCAL-00033" summary="rozwiązanie zadania 1">
+      <option name="closed" value="true" />
+      <created>1768763288350</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1768763288350</updated>
+    </task>
+    <task id="LOCAL-00034" summary="zastosowanie importów">
+      <option name="closed" value="true" />
+      <created>1768764325747</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1768764325747</updated>
+    </task>
+    <task id="LOCAL-00035" summary="poprawa PEP8">
+      <option name="closed" value="true" />
+      <created>1768764504940</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1768764504940</updated>
+    </task>
+    <task id="LOCAL-00036" summary="rozwiązanie zadań 1-4">
+      <option name="closed" value="true" />
+      <created>1768766590242</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1768766590242</updated>
+    </task>
+    <task id="LOCAL-00037" summary="poprawa PEP8">
+      <option name="closed" value="true" />
+      <created>1768767015688</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1768767015688</updated>
+    </task>
+    <task id="LOCAL-00038" summary="naprawa">
+      <option name="closed" value="true" />
+      <created>1768767731844</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1768767731844</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rozwiązanie zadania 2a" />
+    <MESSAGE value="rozwiązanie zadania 2b" />
+    <MESSAGE value="rozwiązanie zadania 2c" />
+    <MESSAGE value="rozwiązanie zadania 2d" />
+    <MESSAGE value="rozwiązanie zadania 4" />
+    <MESSAGE value="rozwiązanie zadania 5" />
+    <MESSAGE value="rozwiązanie zadania 6" />
+    <MESSAGE value="naprawa branchów" />
+    <MESSAGE value="usunięcie zbędnego pliku" />
+    <MESSAGE value="rozwiązanie zadania 7" />
+    <MESSAGE value="rozwiązanie zadania 8" />
+    <MESSAGE value="Zamiana nazw plików" />
+    <MESSAGE value="Poprawa estetyki" />
+    <MESSAGE value="rozwiązanie zadania 2" />
+    <MESSAGE value="rozwiązanie zadania 3" />
+    <MESSAGE value="dodanie zadania 7" />
+    <MESSAGE value="dodanie zadania 8" />
+    <MESSAGE value="dostosowanie kodu do PEP8" />
+    <MESSAGE value="Dodanie konfiguracji CI" />
+    <MESSAGE value="rozwiązanie zadania 1" />
+    <MESSAGE value="zastosowanie importów" />
+    <MESSAGE value="rozwiązanie zadań 1-4" />
+    <MESSAGE value="poprawa PEP8" />
+    <MESSAGE value="naprawa" />
+    <option name="LAST_COMMIT_MESSAGE" value="naprawa" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bt_podstprogpyt$zad_2.coverage" NAME="zad_2 Coverage Results" MODIFIED="1768756267950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bt_podstprogpyt$zad_4.coverage" NAME="zad_4 Coverage Results" MODIFIED="1768688399370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4. Operatory arytmetyczne, logiczne i typowanie" />
+    <SUITE FILE_PATH="coverage/bt_podstprogpyt$zad_8.coverage" NAME="zad_8 Coverage Results" MODIFIED="1768699169049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bt_podstprogpyt$main.coverage" NAME="main Coverage Results" MODIFIED="1768765811560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bt_podstprogpyt$zad_7.coverage" NAME="zad_7 Coverage Results" MODIFIED="1768755516585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bt_podstprogpyt$zad_3.coverage" NAME="zad_3 Coverage Results" MODIFIED="1768764269096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bt_podstprogpyt$Order.coverage" NAME="Order Coverage Results" MODIFIED="1768763228137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/magazine" />
+    <SUITE FILE_PATH="coverage/bt_podstprogpyt$zad_6.coverage" NAME="zad_6 Coverage Results" MODIFIED="1768690207199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4. Operatory arytmetyczne, logiczne i typowanie" />
+    <SUITE FILE_PATH="coverage/bt_podstprogpyt$zad_1.coverage" NAME="zad_1 Coverage Results" MODIFIED="1768750858506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bt_podstprogpyt$utils.coverage" NAME="utils Coverage Results" MODIFIED="1768763230641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/magazine" />
+    <SUITE FILE_PATH="coverage/bt_podstprogpyt$zad_5.coverage" NAME="zad_5 Coverage Results" MODIFIED="1768762396385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bt_podstprogpyt$Product.coverage" NAME="Product Coverage Results" MODIFIED="1768763224151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/magazine" />
+  </component>
+</project>
