@@ -1,5 +1,4 @@
 import requests
-from typing import Optional
 class Brewery:
     def __init__(self, name: str, city: str, brewery_type: str):
         self.name: str = name
