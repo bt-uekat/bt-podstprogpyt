@@ -12,12 +12,13 @@ parser.add_argument("--city", help="Podaj miasto", type=str)
 args = parser.parse_args()
 base_url = ("https://api.openbrewerydb.org/v1/breweries")
 if args.city:
-    print("Szukam miasta" + args.city)
+    print("Szukam w mieście: " + args.city)
     miasto = args.city.replace(" ", "_")
     url = base_url + "?by_city=" + miasto
 else:
     print("Nie podano miasta")
     url = base_url
+print("~" * 30)
 response = requests.get(url)
 data = response.json()
 brewery_list = []
