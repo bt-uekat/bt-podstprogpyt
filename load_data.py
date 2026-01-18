@@ -43,7 +43,8 @@ def load_csv_data():
                 timestamp=int(row['timestamp'])
             )
             db.add(rating)
-            if i > 10000: break
+            if i > 10000:
+                break
 
     print("Ładowanie tagów...")
     with open('tags.csv', mode='r', encoding='utf-8') as f:
